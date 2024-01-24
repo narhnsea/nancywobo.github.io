@@ -32,7 +32,7 @@ Below is a screenshot of the finished looked.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://github.com/narhnsea/nancywobo.github.io)
+- Live Site URL: [Click here](https://github.com/narhnsea/nancywobo.github.io)
 
 ### Built with
 
